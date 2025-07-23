@@ -42,12 +42,11 @@ Welcome to the **Birthday Wish E-Greeting** project — a sweet, vibrant, and cu
 
 ![HBday Preview](preview-image.png)  
 
-
 ---
 
 ## 💡 Inspiration
 
-This project was created to blend creativity with code — turning a simple birthday message into a memorable digital surprise. The idea was to create something joyful, shareable, and easy to customize.
+Inspired by the joy of connecting with loved ones, I created this website to make birthday wishes more personal and special. This project was created to blend creativity with code — turning a simple birthday message into a memorable digital surprise. The idea was to create something joyful, shareable, and easy to customize.
 
 ---
 
